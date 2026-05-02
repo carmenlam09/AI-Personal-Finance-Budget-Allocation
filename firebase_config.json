@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "budgetinvestmentalloc",
+  "private_key_id": "c80c62744af9101dfee746dce66aa9a8b964cf96",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDQXI3cXhsUyuS/\nMpxI91UnwpF68SnMk1Qw2JayVSxNT7ff/4wBifeyNaAlI+lFGkIDUggRWTY0Z6De\nLapquwq44hA4gC0LyonhbmIk6X+FnQtloJKUnY3ry3fbqd+vRuU2F/VGMRNd/EYz\n+GrDuwicXl0IeeVk30GKGi6UCMIGug0a6cCoFIB9XHvYK+52AIO9ghAiyaQGWa90\nokchvEJm1YJnnQ6XZOZm17b6bqWz/RyU0JgxE3knIns7DvXR/FV81AAqeD/43Ezw\nbVq9JXqxcvuZmD/tY6viHE8cqpg3/t73ZE9tq+wo3asUab94DZm6wt7Vs59Djcyo\nLGPBXfzfAgMBAAECggEAKxRXyE40rzHb5aQjJ/rrQlM6HP8rsz5q08aUMb7mb/2h\neNCvM8pAyjnIKKWqHz10lJcrT9rwGBms6wLqDzMo3lzvGZ92sM9pfpCB/jvAv/Fe\nX965L7z7kNr6pxISS30O+wYtEhwncvEr2qbr/Bf5icsA1TXOtfJq7JDJPJYq95S0\nLDFJjrMzBEfwr6tHi2vG9xUQi/Ydj5vegjGL50bKKhRA24iRIsWbCSAiAoQD+Qb7\nYSuddRpqFkSdWyoSNupyQXOXmL9GSMqhojgxQuE9ONYFK+NnnmqkVVzzkTIDJjIv\n9HBfj5wu/vW+gTBNEFv6BG1lkns8ev7gGyhmcmfaEQKBgQD8VzM0kztKK1HQtdPg\nQHgj3ID14OALwh8bgumIiakGACde4Ii9P/e72gR23aDJ/BYfHDp0RjxC4YZKMpbS\ndVxztxOgsyLbyYFpSU9Vk3i3nNHpRlOixQiBQVa8OB2641q11KqRiYSdF9tbW6Mu\ngLt7DlwJ2XksDSCHmm76ulccmwKBgQDTYhWVajFVnfkxbtLMmXOfay/jfHfeNqym\nzFmsU+8V1821zRuPXFzFTsIwAOE7tnx2uS6E8CvBKQfZ08THovg0En9mJdm8c6ef\n4u+NoB/bL8YaCQukVyFW/RivdMmK1wPx/nuLyY6asT7RHwJgb7mbxnKCAnKen9L4\nAec/LuKrDQKBgGiYSHxJbvD+ZcpKJAm3D1VmB/pi/NtC2pwPtndHAE2hcLBOB7/S\nLQCrjOAsW4J9wDmi/MPHfSEH1B8bOxL/XJQGVddtiUxrCP44Se8h0o7hLM0xvmcg\nnrbc+3PHGuOla6sk/JKY2uQ2yFDk+g3DhHKscBARGb3drxcmN0wsQwFzAoGAQCgN\n6vp/HMBEqNc9DbIpYKJUt5PIgd5QSpPNR7t13khQfDRTgBCFa7E6yP0LX2dEoXgV\nAW4vqYG9i0R1/i2dbZiLqEImssbbgnCLSo3l/U2jr7U9HlT/nnpU6rPkk8osvV8C\numujZ5oSOcBSpVhjmj8B9CmwBir2CiXxvMCLNWUCgYEAx9qheHJ+dG22onvTFyvP\nxGUR/k2rMOLLcMk2JAgyspo+3mzibC9S0R7+cBFv/+oHHRG9U9+xo5xzb60zRsvl\njdlsOw6Obaand4ZCLdS4u8a3x96nCSIfU7bqgFgUdlPu6UX9OGUX5m52iBTH41sg\nYRys4Z7g58NojFY1JvUd9fI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@budgetinvestmentalloc.iam.gserviceaccount.com",
+  "client_id": "104289758311160014506",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40budgetinvestmentalloc.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

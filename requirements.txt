@@ -1,0 +1,10 @@
+streamlit
+firebase-admin
+xgboost
+scikit-learn
+pandas
+numpy<1.27 
+matplotlib
+plotly
+groq
+python-dotenv
